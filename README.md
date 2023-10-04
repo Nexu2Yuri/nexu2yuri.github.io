@@ -6,6 +6,4 @@
 
 Voici les différents fichiers qui sont disponibles sur cette documentation : 
 
-  - [Différentes documentation](./docs/documentation/Notes.md)
-  - [Documentation github](./docs/git.md)
-  - [Documentation WSL](./docs/wsl/wsl.md)
+  - [Exo afficher countries](./www/index.html)
