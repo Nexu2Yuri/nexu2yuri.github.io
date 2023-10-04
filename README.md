@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Page d'acceuil
 
 ## Bienvenue sur la page d'acceuil !
